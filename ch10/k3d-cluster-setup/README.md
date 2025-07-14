@@ -49,7 +49,7 @@ Before running the setup, you need to fork the repository:
     AWS_ACCESS_KEY_ID=your-aws-access-key-id
     AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key
     ```
-
+    
 ## Run the Setup
 
 1. Run the setup task to create and configure the local Kubernetes cluster:
